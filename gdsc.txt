@@ -1,10 +1,4 @@
-Name: Tudor
-Occupation: Bachelor's Student in Computer Science at BBU
-Hobby: Sleeping
-Dislike: Alex Profir
-
 Name: Alexandru
 Occupation: Undergraduate Student in Computer Science at Babes-Bolyai University
 Hobby: Watching movies
 Dislikes: Tudor Mihaita
-
