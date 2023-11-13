@@ -1,0 +1,4 @@
+Name: Tudor
+Occupation: Bachelor's Student in Computer Science at BBU
+Hobby: Sleeping
+Dislike: Alex Profir
